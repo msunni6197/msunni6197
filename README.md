@@ -3,7 +3,7 @@
 An AI enthusiast 
 
 - 🔭 I’m currently working on ***Myself😉***
-- 🌱 I’m currently learning Deep Learning💻
+- 🌱 I’m currently learning Mern Stack + Blockchain💻
 - 📫 How to reach me: [mail](mailto:msunni6197@gmail.com)
   
 <!--
